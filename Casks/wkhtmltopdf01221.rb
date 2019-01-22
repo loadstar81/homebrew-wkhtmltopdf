@@ -14,7 +14,7 @@ cask "wkhtmltopdf01221" do
                      "/usr/local/lib/libwkhtmltox.dylib",
                      "/usr/local/lib/libwkhtmltox.0.dylib",
                      "/usr/local/lib/libwkhtmltox.0.12.dylib",
-                     "/usr/local/lib/libwkhtmltox.0.12.2.1.dylib",
+                     "/usr/local/lib/libwkhtmltox.0.12.2.dylib",
                      "/usr/local/bin/wkhtmltoimage",
                      "/usr/local/bin/wkhtmltopdf",
                     ]
